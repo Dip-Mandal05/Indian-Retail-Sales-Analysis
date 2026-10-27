@@ -1,7 +1,7 @@
 # Indian-Retail-Sales-Analysis
 # Indian Retail Sales Analysis (Excel + Power Query)
 
-![Dashboard](Dashboard_Indian_retail_Sales_Analysis.png)
+![Dashboard](Dashboard_Indian_Retail_Sales_Analysis.png)
 
 ## Overview
 I cleaned a messy retail orders dataset (500 orders) with Power Query and built an
